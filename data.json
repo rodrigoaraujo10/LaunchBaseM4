@@ -1,0 +1,46 @@
+{
+  "members": [
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1575859694244-0b337bf58e0b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Rodrigo Reis",
+      "email": "rodrigo15r.a@hotmail.com",
+      "birth": 971136000000,
+      "genre": "M",
+      "blood": "A+",
+      "weight": "75",
+      "height": "172",
+      "id": 1
+    },
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1550345332-09e3ac987658?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Michelle Lopes Pereira",
+      "email": "michellelopes@gmail.com",
+      "birth": 813283200000,
+      "genre": "F",
+      "blood": "A+",
+      "weight": "72",
+      "height": "168",
+      "id": 1
+    }
+  ],
+  "instructors": [
+    {
+      "id": "1",
+      "avatar_url": "https://images.unsplash.com/photo-1550345332-09e3ac987658?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Rodrigo Araujo Dos Reis",
+      "birth": "1995-08-03",
+      "genre": "M",
+      "services": "Futebol, Basquete",
+      "created_at": 1585181161176
+    },
+    {
+      "id": "2",
+      "avatar_url": "https://images.unsplash.com/photo-1575859694244-0b337bf58e0b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Michelle Lopes Pereira",
+      "birth": "1995-10-10",
+      "genre": "F",
+      "services": "Crossfit, Natação, Fitness",
+      "created_at": 1585264304793
+    }
+  ]
+}
